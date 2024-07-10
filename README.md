@@ -39,9 +39,9 @@ To run the app locally:
 - View your score at the end of the quiz.
 
 ## Screenshots
-<img src="assets/icons/icon.png" alt="drawing" width="200"/>
-<img src="assets/screenshots/1716317427478.jpg" alt="drawing" width="200"/>
-<img src="assets/screenshots/1716317427481.jpg" alt="drawing" width="200"/>
+<img src="assets/screenshots/home.jpg" alt="drawing" width="200"/>
+<img src="assets/screenshots/question.jpg" alt="drawing" width="200"/>
+<img src="assets/screenshots/results.jpg" alt="drawing" width="200"/>
 
 ## Contributing
 
